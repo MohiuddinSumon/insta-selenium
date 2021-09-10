@@ -1,0 +1,2 @@
+INSTA_USER=your_instagram_user_name
+INSTA_PASS=your_instagram_user_password
