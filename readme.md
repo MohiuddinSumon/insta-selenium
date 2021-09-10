@@ -16,5 +16,8 @@ Please follow the following guideline to set up this application. Note that we a
 * `cd insta-selenium`
 * `pip install -r requirements.txt`
 * `cat env_sample.txt > .env`
-* * `Modify .env file with your user and password` 
+* * `Modify .env file with your user and password if you want to use it by default` 
 * `python main.py`
+It will ask for your username and password login with that. Press enter (leave blank) if you want to use default one. 
+
+
